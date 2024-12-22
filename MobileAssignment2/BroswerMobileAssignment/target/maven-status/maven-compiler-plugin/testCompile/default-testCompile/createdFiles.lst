@@ -1,0 +1,5 @@
+com\facebook\hooks\Hooks.class
+com\facebook\driver\AppiumDriverFactory.class
+com\facebook\pages\LoginPage.class
+com\facebook\stepDefinitions\LoginSteps.class
+runner\TestRunner.class
